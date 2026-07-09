@@ -1,28 +1,25 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> res = new ArrayList<>();
-        permuteHelper(nums, 0, res);
-        return res;
+        boolean[] test=new boolean[nums.length];
+        List<List<Integer>> ans=new ArrayList<>();
+        List<Integer> l=new ArrayList<>();
+        dfs(nums,ans,l,test);
+        return ans;
     }
 
-    private void permuteHelper(int[] nums, int i, List<List<Integer>> res) {
-        if (i == nums.length) {
-            List<Integer> permutation = new ArrayList<>();
-            for (int num : nums) permutation.add(num);
-            res.add(permutation);
+    public void dfs(int[] nums,List<List<Integer>> ans, List<Integer> l,boolean[] test){
+        if(l.size()==nums.length){
+            ans.add(new ArrayList<>(l));
             return;
         }
-
-        for (int j = i; j < nums.length; j++) {
-            swap(nums, i, j);
-            permuteHelper(nums, i + 1, res);
-            swap(nums, i, j); // backtrack
+        for(int i=0;i<nums.length;i++){
+            if(!test[i]){
+                l.add(nums[i]);
+                test[i]=true;
+                dfs(nums,ans,l,test);
+                l.remove(l.size()-1);
+                test[i]=false;
+            }
         }
-    }
-
-    private void swap(int[] nums, int i, int j) {
-        int tmp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = tmp;
     }
 }
