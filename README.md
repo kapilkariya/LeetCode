@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kapilkariya/LeetCode/tree/master/0046-permutations) |
+| [0128-longest-consecutive-sequence](https://github.com/kapilkariya/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/kapilkariya/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2418-sort-the-people](https://github.com/kapilkariya/LeetCode/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kapilkariya/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kapilkariya/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2418-sort-the-people](https://github.com/kapilkariya/LeetCode/tree/master/2418-sort-the-people) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kapilkariya/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kapilkariya/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kapilkariya/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kapilkariya/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
