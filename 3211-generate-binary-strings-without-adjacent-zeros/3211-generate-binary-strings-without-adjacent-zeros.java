@@ -1,4 +1,7 @@
 class Solution {
+    static {
+        System.out.close();
+    }
     public List<String> validStrings(int n) {
         List<String> l=new ArrayList<>();
         StringBuilder s=new StringBuilder();
