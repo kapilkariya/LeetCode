@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kapilkariya/LeetCode/tree/master/0046-permutations) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kapilkariya/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Enumeration
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kapilkariya/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kapilkariya/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/kapilkariya/LeetCode/tree/master/2418-sort-the-people) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kapilkariya/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
 | ------- |
