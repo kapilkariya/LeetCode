@@ -3,11 +3,11 @@ class Solution {
         int ct=0;
         int t=0;
         List<Integer> ans=new ArrayList<>();
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]<target) ct++;
-            if(nums[i]==target) t++;
+        for(int num:nums){
+            if(num<target) ct++;
+            if(num==target) t++;
         }
-        for(int i=0;i<t;i++)ans.add(ct+i);
+        for(int i=0;i<t;i++) ans.add(ct+i);
         return ans;
     }
 }
