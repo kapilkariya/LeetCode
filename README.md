@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kapilkariya/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kapilkariya/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kapilkariya/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/kapilkariya/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kapilkariya/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/kapilkariya/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Greedy
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kapilkariya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kapilkariya/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kapilkariya/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/kapilkariya/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/kapilkariya/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Backtracking
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kapilkariya/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/kapilkariya/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Graph Theory
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kapilkariya/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kapilkariya/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/kapilkariya/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
