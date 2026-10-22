@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kapilkariya/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/kapilkariya/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kapilkariya/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/kapilkariya/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/kapilkariya/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Greedy
 |  |
