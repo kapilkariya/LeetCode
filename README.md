@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/kapilkariya/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kapilkariya/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kapilkariya/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kapilkariya/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0779-k-th-symbol-in-grammar](https://github.com/kapilkariya/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## String
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/kapilkariya/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1323-maximum-69-number](https://github.com/kapilkariya/LeetCode/tree/master/1323-maximum-69-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kapilkariya/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kapilkariya/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
