@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kapilkariya/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kapilkariya/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1922-count-good-numbers](https://github.com/kapilkariya/LeetCode/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/kapilkariya/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1323-maximum-69-number](https://github.com/kapilkariya/LeetCode/tree/master/1323-maximum-69-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kapilkariya/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1922-count-good-numbers](https://github.com/kapilkariya/LeetCode/tree/master/1922-count-good-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kapilkariya/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/kapilkariya/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
