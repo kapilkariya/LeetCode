@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kapilkariya/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kapilkariya/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kapilkariya/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/kapilkariya/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kapilkariya/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kapilkariya/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kapilkariya/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kapilkariya/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/kapilkariya/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kapilkariya/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/kapilkariya/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kapilkariya/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kapilkariya/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kapilkariya/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/kapilkariya/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/kapilkariya/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kapilkariya/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search Tree
