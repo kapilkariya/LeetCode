@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/kapilkariya/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1323-maximum-69-number](https://github.com/kapilkariya/LeetCode/tree/master/1323-maximum-69-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kapilkariya/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1641-count-sorted-vowel-strings](https://github.com/kapilkariya/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1922-count-good-numbers](https://github.com/kapilkariya/LeetCode/tree/master/1922-count-good-numbers) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kapilkariya/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kapilkariya/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kapilkariya/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1641-count-sorted-vowel-strings](https://github.com/kapilkariya/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [3665-twisted-mirror-path-count](https://github.com/kapilkariya/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/kapilkariya/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kapilkariya/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kapilkariya/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1641-count-sorted-vowel-strings](https://github.com/kapilkariya/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kapilkariya/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Fermat's Little Theorem
 |  |
