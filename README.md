@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/kapilkariya/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kapilkariya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/kapilkariya/LeetCode/tree/master/1402-reducing-dishes) |
+| [1528-shuffle-string](https://github.com/kapilkariya/LeetCode/tree/master/1528-shuffle-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kapilkariya/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/kapilkariya/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kapilkariya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kapilkariya/LeetCode/tree/master/0020-valid-parentheses) |
 | [0763-partition-labels](https://github.com/kapilkariya/LeetCode/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/kapilkariya/LeetCode/tree/master/0784-letter-case-permutation) |
+| [1528-shuffle-string](https://github.com/kapilkariya/LeetCode/tree/master/1528-shuffle-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kapilkariya/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2409-count-days-spent-together](https://github.com/kapilkariya/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/kapilkariya/LeetCode/tree/master/2418-sort-the-people) |
