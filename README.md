@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/kapilkariya/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1254-number-of-closed-islands](https://github.com/kapilkariya/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kapilkariya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1402-reducing-dishes](https://github.com/kapilkariya/LeetCode/tree/master/1402-reducing-dishes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kapilkariya/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/kapilkariya/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kapilkariya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/kapilkariya/LeetCode/tree/master/0763-partition-labels) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/kapilkariya/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1323-maximum-69-number](https://github.com/kapilkariya/LeetCode/tree/master/1323-maximum-69-number) |
+| [1402-reducing-dishes](https://github.com/kapilkariya/LeetCode/tree/master/1402-reducing-dishes) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kapilkariya/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kapilkariya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kapilkariya/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kapilkariya/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/kapilkariya/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kapilkariya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1402-reducing-dishes](https://github.com/kapilkariya/LeetCode/tree/master/1402-reducing-dishes) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kapilkariya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/kapilkariya/LeetCode/tree/master/2418-sort-the-people) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kapilkariya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1402-reducing-dishes](https://github.com/kapilkariya/LeetCode/tree/master/1402-reducing-dishes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kapilkariya/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1641-count-sorted-vowel-strings](https://github.com/kapilkariya/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [3665-twisted-mirror-path-count](https://github.com/kapilkariya/LeetCode/tree/master/3665-twisted-mirror-path-count) |
