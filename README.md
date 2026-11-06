@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/kapilkariya/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/kapilkariya/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/kapilkariya/LeetCode/tree/master/2418-sort-the-people) |
+| [2747-count-zero-request-servers](https://github.com/kapilkariya/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kapilkariya/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kapilkariya/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kapilkariya/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/kapilkariya/LeetCode/tree/master/1402-reducing-dishes) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kapilkariya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/kapilkariya/LeetCode/tree/master/2418-sort-the-people) |
+| [2747-count-zero-request-servers](https://github.com/kapilkariya/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kapilkariya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kapilkariya/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kapilkariya/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/kapilkariya/LeetCode/tree/master/0763-partition-labels) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kapilkariya/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2418-sort-the-people](https://github.com/kapilkariya/LeetCode/tree/master/2418-sort-the-people) |
+| [2747-count-zero-request-servers](https://github.com/kapilkariya/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kapilkariya/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kapilkariya/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kapilkariya/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -287,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/kapilkariya/LeetCode/tree/master/0729-my-calendar-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/kapilkariya/LeetCode/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
