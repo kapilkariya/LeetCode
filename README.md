@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/kapilkariya/LeetCode/tree/master/1528-shuffle-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kapilkariya/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/kapilkariya/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kapilkariya/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1882-process-tasks-using-servers](https://github.com/kapilkariya/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kapilkariya/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kapilkariya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/kapilkariya/LeetCode/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/kapilkariya/LeetCode/tree/master/0784-letter-case-permutation) |
 | [1528-shuffle-string](https://github.com/kapilkariya/LeetCode/tree/master/1528-shuffle-string) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kapilkariya/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kapilkariya/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2409-count-days-spent-together](https://github.com/kapilkariya/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/kapilkariya/LeetCode/tree/master/2418-sort-the-people) |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/kapilkariya/LeetCode/tree/master/2747-count-zero-request-servers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kapilkariya/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
