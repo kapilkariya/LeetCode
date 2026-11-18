@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kapilkariya/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2409-count-days-spent-together](https://github.com/kapilkariya/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/kapilkariya/LeetCode/tree/master/2418-sort-the-people) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kapilkariya/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kapilkariya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kapilkariya/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kapilkariya/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
