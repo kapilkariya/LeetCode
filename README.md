@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/kapilkariya/LeetCode/tree/master/0729-my-calendar-i) |
 | [0804-unique-morse-code-words](https://github.com/kapilkariya/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/kapilkariya/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0817-linked-list-components](https://github.com/kapilkariya/LeetCode/tree/master/0817-linked-list-components) |
 | [1254-number-of-closed-islands](https://github.com/kapilkariya/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/kapilkariya/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kapilkariya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kapilkariya/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0763-partition-labels](https://github.com/kapilkariya/LeetCode/tree/master/0763-partition-labels) |
 | [0804-unique-morse-code-words](https://github.com/kapilkariya/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0817-linked-list-components](https://github.com/kapilkariya/LeetCode/tree/master/0817-linked-list-components) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kapilkariya/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2418-sort-the-people](https://github.com/kapilkariya/LeetCode/tree/master/2418-sort-the-people) |
 | [2747-count-zero-request-servers](https://github.com/kapilkariya/LeetCode/tree/master/2747-count-zero-request-servers) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kapilkariya/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0817-linked-list-components](https://github.com/kapilkariya/LeetCode/tree/master/0817-linked-list-components) |
 ## Recursion
 |  |
 | ------- |
