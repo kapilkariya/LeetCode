@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kapilkariya/LeetCode/tree/master/0020-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/kapilkariya/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0763-partition-labels](https://github.com/kapilkariya/LeetCode/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/kapilkariya/LeetCode/tree/master/0784-letter-case-permutation) |
 | [0804-unique-morse-code-words](https://github.com/kapilkariya/LeetCode/tree/master/0804-unique-morse-code-words) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/kapilkariya/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kapilkariya/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kapilkariya/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kapilkariya/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
