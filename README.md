@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/kapilkariya/LeetCode/tree/master/0817-linked-list-components) |
 | [1254-number-of-closed-islands](https://github.com/kapilkariya/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/kapilkariya/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kapilkariya/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kapilkariya/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/kapilkariya/LeetCode/tree/master/1402-reducing-dishes) |
 | [1528-shuffle-string](https://github.com/kapilkariya/LeetCode/tree/master/1528-shuffle-string) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kapilkariya/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kapilkariya/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1323-maximum-69-number](https://github.com/kapilkariya/LeetCode/tree/master/1323-maximum-69-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kapilkariya/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kapilkariya/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1641-count-sorted-vowel-strings](https://github.com/kapilkariya/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kapilkariya/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/kapilkariya/LeetCode/tree/master/0729-my-calendar-i) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kapilkariya/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Ordered Set
 |  |
 | ------- |
@@ -322,6 +325,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/kapilkariya/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kapilkariya/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kapilkariya/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/kapilkariya/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
